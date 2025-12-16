@@ -1,0 +1,35 @@
+{
+    "title": "Sample Quiz",
+    "questions": [
+        {
+            "question": "Which of these activities do you enjoy?",
+            "subtext": "Select all that apply",
+            "options": [
+                "Reading",
+                "Traveling",
+                "Cooking",
+                "Sports"
+            ]
+        },
+        {
+            "question": "Which of these countries have you visited?",
+            "subtext": "Select all that apply",
+            "options": [
+                "France",
+                "Japan",
+                "Brazil",
+                "Canada"
+            ]
+        },
+        {
+            "question": "Which of these cuisines do you enjoy eating?",
+            "subtext": "Select all that apply",
+            "options": [
+                "Italian",
+                "Mexican",
+                "Chinese",
+                "Indian" 
+            ]
+        }
+    ]
+}
